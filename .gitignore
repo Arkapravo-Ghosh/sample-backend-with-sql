@@ -1,0 +1,12 @@
+# IDE Settings
+.vscode/
+
+# Environment Variables
+.env.development
+.env.production
+
+# Mac files
+.DS_Store
+
+# Node files
+node_modules/
